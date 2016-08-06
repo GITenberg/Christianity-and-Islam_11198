@@ -1,0 +1,42 @@
+_repo: Christianity-and-Islam_11198
+_version: 0.0.1
+alternative_title: Christentum und Islam. English
+contributor:
+  translator:
+    agent_name: Chaytor, H. J. (Henry John)
+    aliases:
+    - Chaytor, H.J.
+    - Chaytor, Henry John
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '4380'
+    url: http://www.gutenberg.org/2009/agents/4380
+creator:
+  author:
+    agent_name: Becker, Carl Heinrich
+    aliases:
+    - Becker, C.H.
+    - Becker, C. H. (Carl Heinrich)
+    birthdate: 1876
+    deathdate: 1933
+    gutenberg_agent_id: '3877'
+    url: http://www.gutenberg.org/2009/agents/3877
+description: ''
+gutenberg_bookshelf:
+- Islam
+- Christianity
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity and other religions -- Islam'
+- !lcsh 'Islam -- Relations -- Christianity'
+- !lcc 'BP'
+- GITenberg
+title: Christianity and Islam
+url: http://www.gutenberg.org/ebooks/11198
