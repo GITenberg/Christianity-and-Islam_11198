@@ -1,5 +1,5 @@
 _repo: Christianity-and-Islam_11198
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Christentum und Islam. English
 contributor:
   translator:
@@ -11,6 +11,9 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '4380'
     url: http://www.gutenberg.org/2009/agents/4380
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Becker, Carl Heinrich
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '3877'
     url: http://www.gutenberg.org/2009/agents/3877
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11198#Christianity-and-Islam
 gutenberg_bookshelf:
 - Islam
 - Christianity
